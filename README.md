@@ -2,7 +2,8 @@
 - 👀 I’m interested in data science  in Epidemiology 
 - 🌱 I’m currently learning Phyton/R
 - 💞️ I’m looking to collaborate on Health science  data
-- 📫  iam PhD students in Epidemiology and MBA in Data Science 
+- 📫  iam PhD students in Epidemiology and MBA in Data Science
+- Visiting Researcher at London School of Hygiene and Tropical Medicine, U. of London 
 
 <!---
 Audency/Audency is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
