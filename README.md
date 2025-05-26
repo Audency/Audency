@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Audencio
 - 👀 I’m interested in data science  in Epidemiology 
 - 💞️ I’m looking to collaborate on Health science  data
-- 📫  iam PhD students in Epidemiology and MBA in Data Science
+- 📫  Epidemiologist and Data Scientist
 - Visiting Researcher at London School of Hygiene and Tropical Medicine, U. of London 
 
 <!---
