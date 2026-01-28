@@ -1,11 +1,11 @@
-## 👋 Hi, I’m Audêncio Victor, PhD  
+## Hi, I’m Audêncio Victor, PhD  
 ### Epidemiologist • Health Data Scientist • Public Health Researcher
 
 🔬 I work at the intersection of **epidemiology**, **machine learning**, and **maternal & child health**, applying advanced data science methods to improve health outcomes in low- and middle-income countries.
 
-👨‍🎓 I hold a **PhD in Public Health – Epidemiology** (University of São Paulo), and I am currently a **Researcher in Health Data Science** at the **London School of Hygiene & Tropical Medicine (LSHTM), University of London**.
+I hold a **PhD in Public Health – Epidemiology** (University of São Paulo), and I am currently a **Researcher in Health Data Science** at the **London School of Hygiene & Tropical Medicine (LSHTM), University of London**.
 
-💡 My work involves classical biostatistics, predictive modelling, AI, and big data applied to large multi-country health datasets, especially in maternal, fetal, and neonatal health.
+My work involves classical biostatistics, predictive modelling, AI, and big data applied to large multi-country health datasets, especially in maternal, fetal, and neonatal health.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 🤝 **I’m looking to collaborate on**
+### **I’m looking to collaborate on**
 - Health data science projects  
 - Predictive models for public health  
 - Epidemiological research using R or Python  
@@ -27,19 +27,19 @@
 
 ---
 
-### 📫 **Where to find me**
+### **Where to find me**
 - Email: **audenciovictor@gmail.com**  
 - LSHTM: **Audencio.victor@lshtm.ac.uk**  
 - LinkedIn | ORCID | GitHub | Twitter (@audenciovictor)
 
 ---
 
-### 🧪 Current Position
+### Current Position
 **Researcher in Health Data Science – LSHTM**  
 Working on predictive modelling for **stillbirths and neonatal deaths** using multi-country cohorts from Sub-Saharan Africa.
 
 ---
 
-### 🎯 Summary
+### Summary
 Epidemiologist and data scientist committed to applying advanced analytical methods to global health challenges, bridging quantitative science and real-world health policy.
 
