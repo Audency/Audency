@@ -1,9 +1,9 @@
 ## Hi, I’m Audêncio Victor, PhD  
 ### Epidemiologist • Health Data Scientist • Public Health Researcher
 
-I work at the intersection of **epidemiology**, **machine learning**, and **maternal & child health**, applying advanced data science methods to improve health outcomes in low- and middle-income countries.
+I work at the intersection of epidemiology, machine learning, and maternal & child health, applying advanced data science methods to improve health outcomes in low- and middle-income countries.
 
-I hold a **PhD in Public Health – Epidemiology** (University of São Paulo), and I am currently a **Researcher in Health Data Science** at the **London School of Hygiene & Tropical Medicine (LSHTM), University of London**.
+I hold a PhD in Public Health – Epidemiology (University of São Paulo), and I am currently a Researcher in Health Data Science at the London School of Hygiene & Tropical Medicine (LSHTM), University of London**.
 
 My work involves classical biostatistics, predictive modelling, AI, and big data applied to large multi-country health datasets, especially in maternal, fetal, and neonatal health.
 
@@ -33,7 +33,7 @@ My work involves classical biostatistics, predictive modelling, AI, and big data
 ---
 ### Current Position
 **Researcher in Health Data Science – LSHTM**  
-Working on predictive modelling for **stillbirths and neonatal deaths** using multi-country cohorts from Sub-Saharan Africa.
+Working on predictive modelling for stillbirths and neonatal deaths using multi-country cohorts from Sub-Saharan Africa.
 
 ---
 ### Summary
