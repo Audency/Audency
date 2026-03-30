@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aud%C3%AAncio_Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aud%C3%AAncio-victor)
 [![Website](https://img.shields.io/badge/Website-audency.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://audency.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-audenciovictor-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:audenciovictor@gmail.com)
-[![LSHTM](https://img.shields.io/badge/LSHTM-Researcher-512D6D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeT0iMTgiIGZvbnQtc2l6ZT0iMTYiPvCfjqg8L3RleHQ+PC9zdmc+&logoColor=white)](mailto:Audencio.victor@lshtm.ac.uk)
+[![LSHTM](https://img.shields.io/badge/LSHTM-Profile-512D6D?style=for-the-badge&logoColor=white)](https://www.lshtm.ac.uk/aboutus/people/victor.audencio)
 
 </div>
 
@@ -134,7 +134,7 @@ Researcher in Health Data Science at the London School of Hygiene & Tropical Med
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Audency&hide_border=true&ring=1A5276&fire=E74C3C&currStreakLabel=1A5276&background=00000000" />
+<img src="https://streak-stats.demolab.com/?user=Audency&hide_border=true&ring=1A5276&fire=E74C3C&currStreakLabel=1A5276&background=00000000" />
 
 <br/><br/>
 
