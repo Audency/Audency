@@ -20,6 +20,39 @@ Researcher in Health Data Science at the London School of Hygiene & Tropical Med
 
 ---
 
+## Working Across Three Continents
+
+<div align="center">
+
+![Africa](https://img.shields.io/badge/-Africa-1A5276?style=for-the-badge)
+![South America](https://img.shields.io/badge/-South_America-2874A6?style=for-the-badge)
+![Europe](https://img.shields.io/badge/-Europe-1B4F72?style=for-the-badge)
+
+</div>
+
+| Region | Based at | Focus |
+|:--|:--|:--|
+| **Africa** | Ministry of Health & Lúrio University, **Mozambique** | District nutrition programmes; national undernutrition studies with UNICEF and the World Food Programme |
+| **South America** | PAHO/WHO and the Ministry of Health, São Paulo State Surveillance Centre, USP–LABDAPS, Hospital Israelita Albert Einstein, **Brazil** | COVID-19 and NCD surveillance, spatial epidemiology, forecasting, real-world evidence, predictive modelling |
+| **Europe** | London School of Hygiene & Tropical Medicine, **United Kingdom** | Maternal and newborn health data science; multi-source harmonisation and predictive modelling for sub-Saharan Africa |
+
+---
+
+## Data Systems & Sources
+
+Experience harmonising and analysing heterogeneous health data — population surveys,
+facility cohorts, vital registration and notifiable-disease systems — across settings
+where coding, coverage and data quality differ substantially between sources.
+
+| | |
+|:--|:--|
+| **Multi-country surveys & cohorts** | DHS · EN-INDEPTH · WHOMCS · ALERT · PTBi · PRECISE · NCOPS |
+| **Brazilian national systems** | SIM · SINAN · SINASC · Vigitel · PNS · PNAD-TIC · e-SUS |
+| **Cohort studies** | Araraquara maternal–child cohort |
+| **Collection platforms** | REDCap · KoBoToolbox |
+
+---
+
 ## Research Interests
 
 <div align="center">
