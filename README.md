@@ -14,7 +14,7 @@
 
 ## About Me
 
-Researcher in Health Data Science at the London School of Hygiene & Tropical Medicine (LSHTM), working on a Wellcome Trust-funded project on predictive modelling for stillbirths and neonatal deaths across Sub-Saharan Africa. That work involved harmonising seven heterogeneous data sources — DHS, EN-INDEPTH, WHOMCS, ALERT, PTBi, PRECISE and NCOPS — into a single analytical dataset of 5,996,390 birth records across 32 countries, and auditing the eligibility cascade down to a pooled analytic set of 1,067,015 births. Visiting Researcher at PROADI-SUS, Hospital Israelita Albert Einstein (São Paulo). Former Technical Consultant (Epidemiologist & Data Scientist) at PAHO/WHO.
+Researcher in Health Data Science at the London School of Hygiene & Tropical Medicine (LSHTM), working on a Wellcome Trust-funded project on predictive modelling for stillbirths and neonatal deaths across Sub-Saharan Africa. That work involved harmonising seven heterogeneous data sources — DHS, EN-INDEPTH, WHOMCS, ALERT, PTBi, PRECISE and NCOPS — into a single analytical dataset spanning sub-Saharan Africa, and designing a fully audited, reproducible eligibility cascade from the raw harmonised records to the final analytic set. Visiting Researcher at PROADI-SUS, Hospital Israelita Albert Einstein (São Paulo). Former Technical Consultant (Epidemiologist & Data Scientist) at PAHO/WHO.
 
 **Education:** PhD in Public Health – Epidemiology (USP) · MPH (UFBA) · MBA in Data Science & Analytics (USP-Esalq) · MBA in AI & Big Data (ICMC-USP) · BSc Nutrition (Lúrio University)
 
@@ -103,7 +103,7 @@ Researcher in Health Data Science at the London School of Hygiene & Tropical Med
 
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
-| 🔬 | [**Stillbirths & Neonatal Deaths – SSA**](https://github.com/Audency/Predictive-modelling-stillbirths-neonatal-deaths-SSA) | Harmonisation of seven data sources (5.99M births, 32 countries) into one analytical dataset; eight-algorithm predictive modelling with external validation in South Asia | `Harmonisation` `XGBoost` `Optuna` |
+| 🔬 | [**Stillbirths & Neonatal Deaths – SSA**](https://github.com/Audency/Predictive-modelling-stillbirths-neonatal-deaths-SSA) | Harmonisation of seven heterogeneous data sources into one analytical dataset; eight-algorithm predictive modelling with external validation in South Asia | `Harmonisation` `XGBoost` `Optuna` |
 | 🌍 | [**Federated Learning – 16 African Countries**](https://github.com/Audency/epi-study-I-federated-learning-africa) | Privacy-preserving FL with FedProx + DP-SGD on DHS data | `FedProx` `DP-SGD` `Flower` |
 | 🇧🇷 | [**Federated Learning – Brazil**](https://github.com/Audency/epi-study-J-federated-learning-brazil) | pFedMe + Flower across 5 Brazilian macroregions | `pFedMe` `Flower` |
 | 🔄 | [**Transfer Learning – Africa to Brazil**](https://github.com/Audency/epi-study-H-transfer-learning-africa) | Cross-continent deep learning fine-tuning | `Transfer Learning` `Fine-tuning` |
