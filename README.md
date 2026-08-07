@@ -14,7 +14,7 @@
 
 ## About Me
 
-Researcher in Health Data Science at the London School of Hygiene & Tropical Medicine (LSHTM), working on a Wellcome Trust-funded project on predictive modelling for stillbirths and neonatal deaths across Sub-Saharan Africa. That work involved harmonising seven heterogeneous data sources — DHS, EN-INDEPTH, WHOMCS, ALERT, PTBi, PRECISE and NCOPS — into a single analytical dataset spanning sub-Saharan Africa, and designing a fully audited, reproducible eligibility cascade from the raw harmonised records to the final analytic set. Visiting Researcher at PROADI-SUS, Hospital Israelita Albert Einstein (São Paulo). Former Technical Consultant (Epidemiologist & Data Scientist) at PAHO/WHO.
+Researcher in Health Data Science at the London School of Hygiene & Tropical Medicine (LSHTM), working on a Wellcome Trust-funded project on predictive modelling for stillbirths and neonatal deaths across Sub-Saharan Africa. That work involved harmonising seven heterogeneous data sources — DHS, EN-INDEPTH, WHOMCS, ALERT, PTBi, PRECISE and NCOPS into a single analytical dataset spanning sub-Saharan Africa, and designing a fully audited, reproducible eligibility cascade from the raw harmonised records to the final analytic set. Visiting Researcher at PROADI-SUS, Hospital Israelita Albert Einstein (São Paulo). Former Technical Consultant (Epidemiologist & Data Scientist) at PAHO/WHO.
 
 **Education:** PhD in Public Health – Epidemiology (USP) · MPH (UFBA) · MBA in Data Science & Analytics (USP-Esalq) · MBA in AI & Big Data (ICMC-USP) · BSc Nutrition (Lúrio University)
 
