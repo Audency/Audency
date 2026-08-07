@@ -32,7 +32,7 @@ Researcher in Health Data Science at the London School of Hygiene & Tropical Med
 
 | Region | Based at | Focus |
 |:--|:--|:--|
-| **Africa** | Ministry of Health & Lúrio University, **Mozambique** | District nutrition programmes; national undernutrition studies with UNICEF and the World Food Programme |
+| **Africa** | Ministry of Health & Lúrio University, **Mozambique** | District nutrition programmes; national undernutrition studies with UNICEF and the World Food Programme; MSc research on undernutrition using Mozambican survey data |
 | **South America** | PAHO/WHO and the Ministry of Health, São Paulo State Surveillance Centre, USP–LABDAPS, Hospital Israelita Albert Einstein, **Brazil** | COVID-19 and NCD surveillance, spatial epidemiology, forecasting, real-world evidence, predictive modelling |
 | **Europe** | London School of Hygiene & Tropical Medicine, **United Kingdom** | Maternal and newborn health data science; multi-source harmonisation and predictive modelling for sub-Saharan Africa |
 
@@ -47,8 +47,9 @@ where coding, coverage and data quality differ substantially between sources.
 | | |
 |:--|:--|
 | **Multi-country surveys & cohorts** | DHS · EN-INDEPTH · WHOMCS · ALERT · PTBi · PRECISE · NCOPS |
-| **Brazilian national systems** | SIM · SINAN · SINASC · Vigitel · PNS · PNAD-TIC · e-SUS |
-| **Cohort studies** | Araraquara maternal–child cohort |
+| **Brazilian national systems** | SIM · SIA · SINAN · SINASC · Vigitel · PNS · PNAD-TIC · e-SUS |
+| **Linked administrative data** | CIDACS-Nexus, Fiocruz Bahia |
+| **Cohort & survey studies** | Araraquara maternal–child cohort · Mozambique undernutrition survey (Clinton Foundation), used for my MSc research |
 | **Collection platforms** | REDCap · KoBoToolbox |
 
 ---
