@@ -14,7 +14,7 @@
 
 ## About Me
 
-Researcher in Health Data Science at the London School of Hygiene & Tropical Medicine (LSHTM), working on a Wellcome Trust-funded project on predictive modelling for stillbirths and neonatal deaths across Sub-Saharan Africa. Visiting Researcher at PROADI-SUS, Hospital Israelita Albert Einstein (São Paulo). Former Technical Consultant (Epidemiologist & Data Scientist) at PAHO/WHO.
+Researcher in Health Data Science at the London School of Hygiene & Tropical Medicine (LSHTM), working on a Wellcome Trust-funded project on predictive modelling for stillbirths and neonatal deaths across Sub-Saharan Africa. That work involved harmonising seven heterogeneous data sources — DHS, EN-INDEPTH, WHOMCS, ALERT, PTBi, PRECISE and NCOPS — into a single analytical dataset of 5,996,390 birth records across 32 countries, and auditing the eligibility cascade down to a pooled analytic set of 1,067,015 births. Visiting Researcher at PROADI-SUS, Hospital Israelita Albert Einstein (São Paulo). Former Technical Consultant (Epidemiologist & Data Scientist) at PAHO/WHO.
 
 **Education:** PhD in Public Health – Epidemiology (USP) · MPH (UFBA) · MBA in Data Science & Analytics (USP-Esalq) · MBA in AI & Big Data (ICMC-USP) · BSc Nutrition (Lúrio University)
 
@@ -28,6 +28,7 @@ Researcher in Health Data Science at the London School of Hygiene & Tropical Med
 ![Machine Learning in Health](https://img.shields.io/badge/-Machine_Learning_in_Health-2E86C1?style=for-the-badge)
 ![Predictive Modelling](https://img.shields.io/badge/-Predictive_Modelling-2874A6?style=for-the-badge)
 ![Spatial Epidemiology](https://img.shields.io/badge/-Spatial_Epidemiology-1B4F72?style=for-the-badge)
+![Data Harmonisation](https://img.shields.io/badge/-Data_Harmonisation-1A5276?style=for-the-badge)
 ![Big Data in Public Health](https://img.shields.io/badge/-Big_Data_in_Public_Health-21618C?style=for-the-badge)
 ![Health Inequalities](https://img.shields.io/badge/-Health_Inequalities-1F618D?style=for-the-badge)
 ![Nutrition Epidemiology](https://img.shields.io/badge/-Nutrition_Epidemiology-154360?style=for-the-badge)
@@ -102,7 +103,7 @@ Researcher in Health Data Science at the London School of Hygiene & Tropical Med
 
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
-| 🔬 | [**Stillbirths & Neonatal Deaths – SSA**](https://github.com/Audency/Predictive-modelling-stillbirths-neonatal-deaths-SSA) | Multi-country predictive models using DHS across Sub-Saharan Africa | `Deep Learning` `DHS` |
+| 🔬 | [**Stillbirths & Neonatal Deaths – SSA**](https://github.com/Audency/Predictive-modelling-stillbirths-neonatal-deaths-SSA) | Harmonisation of seven data sources (5.99M births, 32 countries) into one analytical dataset; eight-algorithm predictive modelling with external validation in South Asia | `Harmonisation` `XGBoost` `Optuna` |
 | 🌍 | [**Federated Learning – 16 African Countries**](https://github.com/Audency/epi-study-I-federated-learning-africa) | Privacy-preserving FL with FedProx + DP-SGD on DHS data | `FedProx` `DP-SGD` `Flower` |
 | 🇧🇷 | [**Federated Learning – Brazil**](https://github.com/Audency/epi-study-J-federated-learning-brazil) | pFedMe + Flower across 5 Brazilian macroregions | `pFedMe` `Flower` |
 | 🔄 | [**Transfer Learning – Africa to Brazil**](https://github.com/Audency/epi-study-H-transfer-learning-africa) | Cross-continent deep learning fine-tuning | `Transfer Learning` `Fine-tuning` |
